@@ -1,0 +1,2 @@
+FLASK_APP=fold.py
+FLASK_DEBUG=1
