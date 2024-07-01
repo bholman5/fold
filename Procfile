@@ -1,1 +1,1 @@
-web: flask db upgrade; gunicorn fold: app
+web: flask db upgrade; gunicorn fold:app
